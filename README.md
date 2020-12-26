@@ -9,7 +9,7 @@
  * []() Redis 
  * []() MySQL
  
- https://user-images.githubusercontent.com/46518769/103146854-7180dd00-4792-11eb-83aa-80ebf5184bac.png
+ ![Tech Stack](https://user-images.githubusercontent.com/46518769/103146854-7180dd00-4792-11eb-83aa-80ebf5184bac.png)
  
  
  Web Socket
